@@ -6,7 +6,6 @@
 
 📧 Reach out via email or connect with me on LinkedIn.   
 
-🌈 Fun fact: I used to shed tears over numbers in elementary school, but now I think they're fascinating! 
 
 
 🌟 Academic Background
