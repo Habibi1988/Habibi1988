@@ -8,3 +8,15 @@
 
 🌈 Fun fact: I used to shed tears over numbers in elementary school, but now I think they're fascinating! 
 
+
+🌟 Academic Background
+I hold both a Bachelor's and Master's degree in Sociology.
+
+🚀 Lifelong Learner
+I'm committed to continuous self-driven learning, especially in data science.
+
+💡 Quick Learning
+I thrive on fast, independent learning and embracing challenges.
+
+👫 Versatile Experience
+I co-founded a startup and conducted statistical analysis for preclinical trials. Check out Clarity Stethoscope!
