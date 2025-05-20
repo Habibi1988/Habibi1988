@@ -4,7 +4,7 @@
 
 💡 Passionate about Python, SQL, Tableau, and Cloud technologies – feel free to ask me anything!
 
-🎓 Academic Background: I hold both a Bachelor's and Master's degree in Mathematics and Data Science.
+🎓 Academic Background: I hold a Master's degree in Sociology.
 
 📜 Certifications:  
 - Tableau Certified  
