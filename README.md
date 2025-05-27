@@ -4,8 +4,7 @@
 
 💡 Passionate about Python, SQL, Tableau, and Cloud technologies – feel free to ask me anything!
 
-🎓 Academic Background: I hold a Master's degree in Sociology.
-
+🎓 Academic Background: I hold a Bachelor's degree in Mathematics and a Master's degree in Sociology.
 📜 Certifications:  
 - Tableau Certified  
 - AWS Certified Cloud Practitioner  
